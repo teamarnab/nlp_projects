@@ -25,6 +25,12 @@ nlp-practice-projects/
 │   └── README.md          # Documentation
 │   └── requirements.txt/  # Dependencies
 │
+├── Sentiment-analysis/
+│   └── scripts/           # Preprocessing scripts
+│   └── data/              # Sample datasets
+│   └── README.md          # Documentation
+│   └── requirements.txt/  # Dependencies
+│
 ├── README.md              # Documentation
 └── requirements.txt       # Dependencies
 
